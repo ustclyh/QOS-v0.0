@@ -1,5 +1,3 @@
-QOS(Quantum Operating System) is a softwave package developed for operating supperconducting quantum computers. 
+This repo is outdated, latest version at https://github.com/YulinWu/QOSv1.1
 
-Available at:
-https://github.com/YulinWu/QOS
-https://github.com/QCLab/QOS
+QOS(Quantum Operating System) is a softwave package developed for operating supperconducting quantum computers. 
